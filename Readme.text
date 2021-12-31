@@ -1,0 +1,20 @@
+------------------------------------------------------------------------
+This project contains two programs i.e. Server and Client.
+These programs can create and comunicate over connection-orinted network
+using TCP/IP. The Server allows you to set a port before starting whereas
+the client asks for the IP address and the port number of the host to be
+connected.
+------------------------------------------------------------------------
+
+PROJECT TITLE: TCP-IP Network
+PURPOSE OF PROJECT: 
+VERSION or DATE: Nikhil Gupta ©2021-22
+HOW TO START THIS PROJECT:
+AUTHOR: Nikhil Gupta
+
+USER INSTRUCTIONS: 
+Copy paste the png files in C drive before running.
+These programms have been successfuly tested only on localhost and
+local ip addresses.
+If .exe files don't work check out .jar files if available.
+Also check if you're using latest *java sdk 16 or later.
